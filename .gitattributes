@@ -1,0 +1,10 @@
+Inspire[[:space:]]Old[[:space:]]BLUE/icon-theme.cache filter=lfs diff=lfs merge=lfs -text
+Inspire[[:space:]]Old/icon-theme.cache filter=lfs diff=lfs merge=lfs -text
+Inspire[[:space:]]Dark/icon-theme.cache filter=lfs diff=lfs merge=lfs -text
+Inspire/icon-theme.cache filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Inspire filter=lfs diff=lfs merge=lfs -text
+Inspire[[:space:]]Dark filter=lfs diff=lfs merge=lfs -text
+Inspire[[:space:]]Old filter=lfs diff=lfs merge=lfs -text
+Inspire[[:space:]]Old[[:space:]]BLUE filter=lfs diff=lfs merge=lfs -text

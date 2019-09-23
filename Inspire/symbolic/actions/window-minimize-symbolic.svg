@@ -1,0 +1,29 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-293.0004,-188)">
+        <path d="m300.0002 191v4h-3l3.15625 4h-3.15625v2h8v-2h-3.15625l3.15625-4h-3v-4z" class="ColorScheme-Text" fill="currentColor"/>
+        <g fill="#000000">
+            <text x="613.99213" y="426.85062" font-family="Bitstream Vera Sans" font-size="14px" opacity=".8" xml:space="preserve"><tspan x="613.99213" y="426.85062"/></text>
+            <text x="-1401.6903" y="1250.8955" font-family="Bitstream Vera Sans" font-size="14px" opacity=".8" xml:space="preserve"><tspan x="-1401.6903" y="1250.8955"/></text>
+            <flowRoot transform="translate(194.20795,-502.35545)" font-family="Ubuntu" font-size="12px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="531" y="299" width="40" height="23"/></flowRegion><flowPara/></flowRoot>
+            <g font-family="Bitstream Vera Sans" font-size="14px">
+                <text x="-474.76328" y="195.66692" opacity=".8" xml:space="preserve"><tspan x="-474.76328" y="195.66692"/></text>
+                <text x="417.86267" y="-261.33307" opacity=".8" xml:space="preserve"><tspan x="417.86267" y="-261.33307"/></text>
+                <text x="444.34619" y="-306.36404" opacity=".8" xml:space="preserve"><tspan x="444.34619" y="-306.36404"/></text>
+                <text x="-1204.1372" y="-314.33307" opacity=".8" xml:space="preserve"><tspan x="-1204.1372" y="-314.33307"/></text>
+                <text x="410.17053" y="-616.33313" opacity=".8" xml:space="preserve"><tspan x="410.17053" y="-616.33313"/></text>
+                <text x="2052.7522" y="76.335953" opacity=".8" xml:space="preserve"><tspan x="2052.7522" y="76.335953"/></text>
+                <text x="2079.2356" y="31.304977" opacity=".8" xml:space="preserve"><tspan x="2079.2356" y="31.304977"/></text>
+                <text x="430.75208" y="23.335953" opacity=".8" xml:space="preserve"><tspan x="430.75208" y="23.335953"/></text>
+                <text x="2045.0601" y="-278.66403" opacity=".8" xml:space="preserve"><tspan x="2045.0601" y="-278.66403"/></text>
+                <text x="-605.79694" y="-29.818359" opacity=".8" xml:space="preserve"><tspan x="-605.79694" y="-29.818359"/></text>
+                <text x="-2621.4795" y="794.22656" opacity=".8" xml:space="preserve"><tspan x="-2621.4795" y="794.22656"/></text>
+                <text x="-726.19531" y="896.87628" opacity=".8" xml:space="preserve"><tspan x="-726.19531" y="896.87628"/></text>
+            </g>
+        </g>
+    </g>
+</svg>

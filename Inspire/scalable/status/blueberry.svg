@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2160"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   version="1.0"
+   sodipodi:docname="blueberry.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andreas/Desktop/bluetooth/bluetooth-applet-16.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2162">
+    <linearGradient
+       id="linearGradient-1"
+       y2="104.13264"
+       x2="52.241066"
+       y1="0"
+       x1="52.241066"
+       gradientTransform="scale(0.81353623,1.2292016)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop36"
+         offset="0%"
+         stop-color="#42BAE9" />
+      <stop
+         id="stop38"
+         offset="100%"
+         stop-color="#1F84CE" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="37.412798"
+     inkscape:cy="42.17668"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     width="48px"
+     height="48px"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:grid-points="true"
+     inkscape:showpageshadow="true"
+     showborder="true"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0"
+       originy="0"
+       spacingx="0.5"
+       spacingy="0.5"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="cs-bluetooth"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.35742187,0,0,0.35742187,0.92790643,1.0000001)">
+      <g
+         transform="translate(22)"
+         id="bluetooth"
+         style="fill-rule:nonzero">
+        <path
+           id="Shape"
+           d="M 42.5,0 C 19.10636,0 0.14216374,19.07575 0.14216374,42.607 V 85.39325 C 0.14216374,108.92425 19.10636,128 42.5,128 65.89364,128 84.857836,108.92425 84.857836,85.393 V 42.607 C 84.857836,19.07575 65.89364,0 42.5,0 Z"
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient-1)" />
+        <path
+           id="path44"
+           d="M 48.30038,68.70325 65.429123,50.8185 c 1.539444,-1.60725 1.539444,-4.1515 0,-5.7585 L 45.542354,24.29575 c -1.16788,-1.21875 -2.954371,-1.60225 -4.514445,-0.9695 -1.56057,0.633 -2.582807,2.156 -2.582807,3.84875 V 58.41325 L 25.513172,44.91075 C 23.932471,43.261 21.320833,43.21125 19.67924,44.80125 18.038392,46.3915 17.989678,49.0185 19.570629,50.6695 L 36.842032,68.703 19.570629,86.7365 c -1.580702,1.651 -1.531989,4.27775 0.108611,5.86825 0.800292,0.77575 1.831725,1.16125 2.861915,1.16125 1.081886,0 2.161784,-0.42525 2.972017,-1.27075 l 12.93193,-13.5025 V 110.231 c 0,1.69275 1.021989,3.21575 2.582807,3.84875 0.500059,0.20275 1.02348,0.3015 1.542179,0.3015 1.099532,-2.5e-4 2.178932,-0.443 2.972266,-1.271 L 65.429123,92.346 c 1.539444,-1.60725 1.539444,-4.1515 0,-5.7585 z M 46.697061,37.46475 56.729298,47.9395 46.697061,58.41425 Z m 0,62.47725 V 78.9925 l 10.032237,10.47475 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.3;fill:#145587" />
+        <path
+           id="path46"
+           d="M 48.30038,64 65.429123,46.11525 c 1.539444,-1.60725 1.539444,-4.1515 0,-5.7585 L 45.542354,19.5925 c -1.16788,-1.21875 -2.954371,-1.60225 -4.514445,-0.9695 -1.56057,0.633 -2.582807,2.156 -2.582807,3.84875 V 53.71 L 25.513172,40.2075 C 23.932471,38.55775 21.320833,38.508 19.67924,40.098 c -1.640848,1.59025 -1.689562,4.21725 -0.108611,5.86825 l 17.271403,18.0335 -17.271403,18.0335 c -1.580702,1.651 -1.531989,4.27775 0.108611,5.86825 0.800292,0.77575 1.831725,1.16125 2.861915,1.16125 1.081886,0 2.161784,-0.42525 2.972017,-1.27075 l 12.93193,-13.5025 v 31.238 c 0,1.69275 1.021989,3.21575 2.582807,3.84875 0.500059,0.20275 1.02348,0.3015 1.542179,0.3015 1.099532,-2.5e-4 2.178932,-0.443 2.972266,-1.271 L 65.429123,87.6425 c 1.539444,-1.60725 1.539444,-4.1515 0,-5.7585 z M 46.697061,32.7615 56.729298,43.23625 46.697061,53.711 Z m 0,62.477 V 74.289 l 10.032237,10.47475 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

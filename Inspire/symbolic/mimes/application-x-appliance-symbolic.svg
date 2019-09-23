@@ -1,0 +1,25 @@
+<svg version="1.1" viewBox="0 0 16.03125 16.03125" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-833.00045,478)" class="ColorScheme-Text" fill="currentColor">
+        <path transform="translate(1011.0317,-435.96875)" d="m-174-39.984375a2.015625 2.015625 0 1 1-4.03125 0 2.015625 2.015625 0 1 1 4.03125 0z" enable-background="new"/>
+        <g>
+            <path transform="translate(1011.0317,-424.03125)" d="m-174-39.984375a2.015625 2.015625 0 1 1-4.03125 0 2.015625 2.015625 0 1 1 4.03125 0z" enable-background="new"/>
+            <path transform="translate(1023.0317,-424.03125)" d="m-174-39.984375a2.015625 2.015625 0 1 1-4.03125 0 2.015625 2.015625 0 1 1 4.03125 0z" enable-background="new"/>
+            <path transform="translate(1023.0317,-436)" d="m-174-39.984375a2.015625 2.015625 0 1 1-4.03125 0 2.015625 2.015625 0 1 1 4.03125 0z" enable-background="new"/>
+        </g>
+        <path d="m834.0625-476.9375v1 11.96875 1h1 11.96875 1v-1-11.96875-1h-1-11.96875-1zm2 2h9.96875v9.96875h-9.96875v-9.96875z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m837.96875-472.96875v0.5 5 0.5h0.5 5.0625 0.5v-0.5-5-0.5h-0.5-5.0625-0.5zm1 1h4.0625v4h-4.0625v-4z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path transform="matrix(1.1975309,0,0,1.1975309,1044.4206,-429.44406)" d="m-166.5-31.765625a1.265625 1.265625 0 1 1-2.53125 0 1.265625 1.265625 0 1 1 2.53125 0z" enable-background="new"/>
+        <path transform="matrix(1.1975309,0,0,1.1975309,1039.4206,-429.44406)" d="m-166.5-31.765625a1.265625 1.265625 0 1 1-2.53125 0 1.265625 1.265625 0 1 1 2.53125 0z" enable-background="new"/>
+        <path transform="matrix(1.1975309,0,0,1.1975309,1039.4206,-434.41281)" d="m-166.5-31.765625a1.265625 1.265625 0 1 1-2.53125 0 1.265625 1.265625 0 1 1 2.53125 0z" enable-background="new"/>
+        <path transform="matrix(1.1975309,0,0,1.1975309,1044.4831,-434.41281)" d="m-166.5-31.765625a1.265625 1.265625 0 1 1-2.53125 0 1.265625 1.265625 0 1 1 2.53125 0z" enable-background="new"/>
+        <path d="m843.875-467.78125-0.6875 0.6875 3.40625 3.4375 0.71875-0.71875-3.4375-3.40625z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m838.59375-467.78125-3.40625 3.40625 0.6875 0.71875 3.4375-3.4375-0.71875-0.6875z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m846.59375-475.78125-3.40625 3.40625 0.6875 0.71875 3.4375-3.4375-0.71875-0.6875z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m835.875-475.78125-0.6875 0.6875 3.40625 3.4375 0.71875-0.71875-3.4375-3.40625z" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
+    </g>
+</svg>

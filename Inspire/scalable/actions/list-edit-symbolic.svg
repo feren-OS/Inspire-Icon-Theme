@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-40 -726)">
+        <g transform="matrix(1 0 0 1.49985 .14644561 -367.46435)">
+            <g transform="translate(-.15531039 -.2500338)">
+                <g transform="matrix(.70710678 -.47145167 1.0605541 .70710678 -765.05661 237.80289)">
+                    <g transform="matrix(.70710679 .47145167 -1.0605541 .70710678 793.33489 192.28516)" class="ColorScheme-Text" fill="currentColor">
+                        <path d="m41.16418 738.21673 9-6.0006c1 0 2 0.66674 2 1.33347l-9 6.0006h-2z" fill-rule="evenodd"/>
+                        <path d="m51.16418 731.5494c1 0 2 0.66674 2 1.33347l2-1.33347c0-0.66674-0.75185-1.33347-2-1.33347z" enable-background="new"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

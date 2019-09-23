@@ -1,0 +1,16 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <defs>
+        <filter color-interpolation-filters="sRGB">
+            <feBlend in2="BackgroundImage" mode="darken"/>
+        </filter>
+    </defs>
+    <g transform="translate(-401.0002,223)" class="ColorScheme-Text" fill="currentColor">
+        <path d="m409.00022-222c-2.20914 0-4 1.79086-4 4s1.79086 4 4 4 4-1.79086 4-4-1.79086-4-4-4z" enable-background="accumulate"/>
+        <path d="m405.78147-214.21875c-2.24866 1.16455-2.78125 3.51165-2.78125 6.21875h12c0-2.7071-0.53259-5.0542-2.78125-6.21875-0.87459 0.74817-1.98482 1.21875-3.21875 1.21875s-2.34416-0.47058-3.21875-1.21875z" fill-rule="evenodd"/>
+    </g>
+</svg>

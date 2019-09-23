@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-333.0004,462)" class="ColorScheme-Text" fill="currentColor">
+        <rect x="338.00021" y="-452" width="6" height="1" rx=".25" ry=".25" enable-background="new"/>
+        <rect x="340.50021" y="-458" width="1" height="2" rx=".25" ry=".25" enable-background="new"/>
+        <rect transform="matrix(.25881905 .96592583 -.96592583 .25881905 0 0)" x="-348.28226" y="-452.79593" width="1" height="2" rx=".25" ry=".25" enable-background="new"/>
+        <rect transform="matrix(.25881905 -.96592583 .96592583 .25881905 0 0)" x="523.79694" y="205.96587" width="1" height="2" rx=".25" ry=".25" enable-background="new"/>
+        <rect transform="matrix(.79851249 -.60197824 .60197824 .79851249 0 0)" x="543.53882" y="-161.76952" width="1" height="2" rx=".25" ry=".25" enable-background="new"/>
+        <rect transform="matrix(.80831027 .58875675 -.58875675 .80831027 0 0)" x="9.3565512" y="-572.23334" width="1" height="2" rx=".25" ry=".25" enable-background="new"/>
+    </g>
+</svg>

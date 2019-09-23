@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   version="1.1"
+   height="32"
+   id="svg35"
+   sodipodi:docname="input-touchpad.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="11.313708"
+     inkscape:cx="-2.3399549"
+     inkscape:cy="15.329474"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient850">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0"
+         id="stop846" />
+      <stop
+         style="stop-color:#d2d2d2;stop-opacity:1"
+         offset="1"
+         id="stop848" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient850"
+       id="linearGradient852"
+       x1="407.57144"
+       y1="554.79797"
+       x2="407.57144"
+       y2="524.79797"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-376.57144,-523.79797)">
+    <rect
+       width="30.000006"
+       x="377.57144"
+       y="524.79797"
+       rx="1.1538401"
+       height="30"
+       style="fill:url(#linearGradient852);fill-opacity:1;stroke-width:1.15384638;stroke-linejoin:round"
+       id="rect4189" />
+    <rect
+       width="25.691999"
+       x="379.72543"
+       y="526.95197"
+       rx="0.53525996"
+       height="25.691999"
+       style="fill:#18222a;fill-opacity:1;stroke-width:1.07049918;stroke-linejoin:round"
+       id="rect4237" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4369"
+       d="" />
+    <rect
+       style="opacity:1;fill:#006aff;fill-opacity:1;stroke:none;stroke-width:1.89274073;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect844"
+       width="2.3077071"
+       height="7.8000002"
+       x="391.41763"
+       y="544.84381" />
+  </g>
+</svg>

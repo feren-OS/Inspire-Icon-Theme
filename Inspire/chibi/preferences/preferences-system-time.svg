@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="preferences-system-time.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>cs-date-time</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="-36.067797"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">cs-date-time</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs16">
+    <radialGradient
+       cx="64"
+       cy="0"
+       fx="64"
+       fy="0"
+       r="128"
+       id="radialGradient-1"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CBCBCB"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#9B9B9B"
+         offset="100%"
+         id="stop8" />
+    </radialGradient>
+    <linearGradient
+       x1="64"
+       y1="116.9655"
+       x2="64"
+       y2="11.0345"
+       id="linearGradient-2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#E8E8E8"
+         offset="0%"
+         id="stop11" />
+      <stop
+         stop-color="#FFFFFF"
+         offset="100%"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <g
+     id="cs-date-time"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(0.234375,0,0,0.234375,1,1)">
+    <g
+       id="circular-clock"
+       style="fill-rule:nonzero">
+      <circle
+         id="Oval"
+         cx="64"
+         cy="64"
+         r="64"
+         style="fill:url(#radialGradient-1)" />
+      <circle
+         id="circle19"
+         cx="64"
+         cy="64"
+         r="52.9655"
+         style="fill:url(#linearGradient-2)" />
+      <path
+         d="m 39.72425,90.48275 c -0.56475,0 -1.1295,-0.2155 -1.56025,-0.6465 -0.862,-0.8615 -0.862,-2.259 0,-3.12075 l 29.793,-29.793 c 0.862,-0.862 2.25875,-0.862 3.12075,0 0.862,0.8615 0.862,2.259 0,3.12075 l -29.793,29.793 c -0.43125,0.431 -0.996,0.6465 -1.5605,0.6465 z"
+         id="Shape"
+         inkscape:connector-curvature="0"
+         style="fill:#d0021b" />
+      <path
+         d="M 94.8965,61.793 H 66.207 V 37.51725 c 0,-1.21875 -0.98825,-2.207 -2.207,-2.207 -1.21875,0 -2.207,0.98825 -2.207,2.207 V 61.793 h -4.41375 c -1.21875,0 -2.207,0.98825 -2.207,2.207 0,1.21875 0.98825,2.207 2.207,2.207 H 61.793 v 4.41375 c 0,1.21875 0.98825,2.207 2.207,2.207 1.21875,0 2.207,-0.98825 2.207,-2.207 V 66.207 h 28.68975 c 1.21875,0 2.207,-0.98825 2.207,-2.207 0,-1.21875 -0.9885,-2.207 -2.20725,-2.207 z"
+         id="path22"
+         inkscape:connector-curvature="0"
+         style="fill:#4a4a4a" />
+      <circle
+         id="circle24"
+         cx="64"
+         cy="64"
+         r="4.4137502"
+         style="fill:#4a4a4a" />
+    </g>
+  </g>
+</svg>

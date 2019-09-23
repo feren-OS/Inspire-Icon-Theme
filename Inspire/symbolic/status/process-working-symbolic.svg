@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 16.000013 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-453.0002,462)" class="ColorScheme-Text" fill="currentColor">
+        <rect x="460.50021" y="-462" width="1" height="5" rx=".5" ry=".5"/>
+        <rect transform="rotate(-90)" x="453.5" y="453.00021" width="1" height="5" rx=".5" ry=".5" opacity=".578"/>
+        <rect transform="scale(-1)" x="-461.50021" y="446" width="1" height="5" rx=".5" ry=".5" opacity=".33500001"/>
+        <rect transform="rotate(90)" x="-454.5" y="-469.00021" width="1" height="5" rx=".5" ry=".5" opacity=".18999999"/>
+        <rect transform="matrix(.8660254 -.5 .5 .8660254 0 0)" x="625.73792" y="-170.67543" width="1" height="5" rx=".5" ry=".5" opacity=".83300003"/>
+        <rect transform="matrix(.5 -.8660254 .8660254 .5 0 0)" x="623.17566" y="164.23788" width="1" height="5" rx=".5" ry=".5" opacity=".694"/>
+        <rect transform="matrix(-.5 -.8660254 .8660254 -.5 0 0)" x="162.17543" y="618.23792" width="1" height="5" rx=".5" ry=".5" opacity=".48200001"/>
+        <rect transform="matrix(-.8660254 -.5 .5 -.8660254 0 0)" x="-172.73788" y="615.67566" width="1" height="5" rx=".5" ry=".5" opacity=".40200004"/>
+        <rect transform="matrix(-.8660254 .5 -.5 -.8660254 0 0)" x="-626.73792" y="154.67543" width="1" height="5" rx=".5" ry=".5" opacity=".28000004"/>
+        <rect transform="matrix(-.5 .8660254 -.8660254 -.5 0 0)" x="-624.17566" y="-180.23788" width="1" height="5" rx=".5" ry=".5" opacity=".23000004"/>
+        <rect transform="matrix(.5 .8660254 -.8660254 .5 0 0)" x="-163.17543" y="-634.23792" width="1" height="5" rx=".5" ry=".5" opacity=".16000001"/>
+        <rect transform="matrix(.8660254 .5 -.5 .8660254 0 0)" x="171.73788" y="-631.67566" width="1" height="5" rx=".5" ry=".5" opacity=".12999998"/>
+    </g>
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="cs-panel.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>cs-applets</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="109.47589"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="cs-applets" />
+  <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">cs-applets</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="56.568542"
+       y1="15.839192"
+       x2="56.568542"
+       y2="128.97627"
+       id="linearGradient-1"
+       gradientTransform="matrix(0.2828427,0,0,0.22097087,-1.4305115e-6,86.25)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#AAE3F5"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#73C5EA"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <g
+     id="cs-applets"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(0,-96)">
+    <g
+       id="Group"
+       transform="translate(26,96)" />
+    <g
+       id="g848"
+       transform="translate(1.6689301e-6,9.625)">
+      <rect
+         style="fill:url(#linearGradient-1);stroke-width:0.25"
+         height="25"
+         width="32"
+         y="89.75"
+         x="-1.4305115e-06"
+         id="Rectangle" />
+      <rect
+         style="fill:#0288d1;stroke-width:0.25"
+         height="5.5"
+         width="32"
+         y="109.5"
+         x="-1.4305115e-06"
+         id="Rectangle-2" />
+      <rect
+         height="5.5"
+         width="32"
+         y="89.75"
+         x="-1.9073486e-06"
+         id="Rectangle-2-3"
+         style="fill:#169ce5;fill-opacity:1;stroke-width:0.25" />
+      <path
+         id="path14"
+         d="m 22.042202,108.09053 c 0.313601,-0.0371 0.61968,-0.12299 0.917033,-0.23629 l 4.978668,4.97867 c 0.499103,-0.0943 0.974643,-0.33338 1.359215,-0.71796 0.384605,-0.3846 0.623753,-0.86018 0.718023,-1.35935 l -4.9787,-4.9787 c 0.11326,-0.29732 0.199242,-0.60333 0.236317,-0.91693 0.04324,-0.94259 -0.28472,-1.90317 -1.00964,-2.62809 -0.999649,-0.99965 -2.447588,-1.26452 -3.676981,-0.80225 l 1.78689,1.78689 -0.232244,1.74217 -1.7422,0.23227 -1.786856,-1.78685 c -0.462238,1.22936 -0.197299,2.67723 0.802351,3.67688 0.72495,0.72482 1.68553,1.05284 2.628124,1.00954 z"
+         style="fill:#ffffe1;fill-opacity:1;stroke-width:0.18051049"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

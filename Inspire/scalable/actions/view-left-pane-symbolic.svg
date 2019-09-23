@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(100 72.989)" class="ColorScheme-Text" fill="currentColor" shape-rendering="auto">
+        <path d="m-84.988-71.988h-14v14h14v-14zm-1 1v12h-12v-12h12z" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;paint-order:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+        <rect transform="rotate(90)" x="-71" y="94" width="12" height="1.0135" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+    </g>
+</svg>

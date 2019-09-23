@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>base_folder_min</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="base_folder_min" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder/blue_inverse_min" transform="translate(0.000000, 0.250000)">
+            <g id="folder/blue_inverse" transform="translate(0.000000, 2.000000)">
+                <path d="M15.5,3 L29.5,3 C30.8807119,3 32,4.11928813 32,5.5 L32,23 C32,24.3807119 30.8807119,25.5 29.5,25.5 L2.5,25.5 C1.11928813,25.5 1.69088438e-16,24.3807119 0,23 L0,2.5 C-1.69088438e-16,1.11928813 1.11928813,2.53632657e-16 2.5,0 L12.25,0 L15.5,3 Z" id="Combined-Shape" fill="#88ABD2"></path>
+                <rect id="Rectangle" fill="#B9D5F4" x="0" y="6.25" width="32" height="21.25" rx="2.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

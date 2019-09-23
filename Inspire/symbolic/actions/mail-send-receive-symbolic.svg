@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+    <g transform="translate(-313.00035,-28)" class="ColorScheme-Text" fill="currentColor">
+        <path d="m322.00036 35.00001-1e-5 -1c-3e-5 -0.26531-0.0931-0.53058-0.28124-0.71876l-3.00001-2.99999-0.28125-0.28126h-0.87499l-0.28126 0.28126-2.99999 3c-0.18821 0.18818-0.28121 0.45347-0.28121 0.71876l-1e-5 1h1c0.26531 4e-5 0.53059-0.0931 0.71877-0.28121l2.28124-2.28126 2.28125 2.28125c0.18817 0.18815 0.45345 0.28125 0.71875 0.28125h1z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m317 32v7h2v-7h-2z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m328.00036 35.99999-1e-5 1c-3e-5 0.26531-0.0931 0.53058-0.28124 0.71876l-3.00001 2.99999-0.28125 0.28126h-0.87499l-0.28126-0.28126-2.99999-3c-0.18821-0.18818-0.28121-0.45347-0.28121-0.71876l-1e-5 -1h1c0.26531-4e-5 0.53059 0.0931 0.71877 0.28121l2.28124 2.28126 2.28125-2.28125c0.18817-0.18815 0.45345-0.28125 0.71875-0.28125h1z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="m323 32v7h2v-7h-2z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+    </g>
+</svg>
